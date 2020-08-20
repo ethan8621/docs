@@ -1,1 +1,3 @@
-## 3DViewer
+## 3Dviewer
+
+module: 3dviewer
